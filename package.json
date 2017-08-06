@@ -1,0 +1,16 @@
+{
+  "name": "stocks-app",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Web App Project 1",
+  "main": "start.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavmall/Stocks-App.git"
+  },
+  "author": "Abhinav Mall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinavmall/Stocks-App/issues"
+  },
+  "homepage": "https://github.com/abhinavmall/Stocks-App#readme"
+}
