@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "FreeCodeCamp Web App Project 1",
   "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abhinavmall/Stocks-App.git"
