@@ -7,4 +7,4 @@
 3. I can remove stocks.
 4. I can see changes in real-time when any other user adds or removes a stock.
 
-Deployed at: ```text https://abhinavmall-stocks-app.herokuapp.com/ ```
+Deployed at: ```https://abhinavmall-stocks-app.herokuapp.com/ ```
